@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Associative Arrays", "Assoc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Miner Task", "A Miner Task\A Miner Task.csproj", "{6ABF9B8E-8024-4D9E-A26B-8A413E9FCAA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legendary Farming", "Legendary Farming\Legendary Farming.csproj", "{DDD061A9-F092-4CEB-96B5-57C35005462E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6ABF9B8E-8024-4D9E-A26B-8A413E9FCAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ABF9B8E-8024-4D9E-A26B-8A413E9FCAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ABF9B8E-8024-4D9E-A26B-8A413E9FCAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD061A9-F092-4CEB-96B5-57C35005462E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD061A9-F092-4CEB-96B5-57C35005462E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD061A9-F092-4CEB-96B5-57C35005462E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD061A9-F092-4CEB-96B5-57C35005462E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
